@@ -91,7 +91,7 @@ class MainActivity2 : AppCompatActivity() {
             }
             tvOutput?.text = ""
             tvOutput2?.text = ""
-            
+
             // arrNumbers.clear()
         }
 
